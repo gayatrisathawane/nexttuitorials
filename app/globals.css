@@ -25,3 +25,10 @@ body {
     )
     rgb(var(--background-start-rgb));
 } */
+.btn{
+  background-color: rgb(38, 59, 52);
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  
+}
