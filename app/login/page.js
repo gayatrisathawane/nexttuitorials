@@ -34,7 +34,7 @@ const login = ()=>{
             </button><br/><br/>
 
            
-            <Link href="/">Go to home page hhhhh</Link>
+            <Link href="/">Go to home Page</Link>
         </div>
     )
 }
