@@ -9,7 +9,7 @@ const login = ()=>{
     }
     return(
         <div>
-            <h1>Login page</h1>
+            <h1 className='main-heading'>Login page</h1>
             <button className='btn'>
             <Link href="/login/loginstudent">login student</Link>
             </button><br/><br/>
@@ -34,7 +34,7 @@ const login = ()=>{
             </button><br/><br/>
 
            
-            <Link href="/">Go to home page hhhhh</Link>
+            <Link href="/">Go to home Page</Link>
         </div>
     )
 }
