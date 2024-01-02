@@ -1,8 +1,9 @@
 "use client"
+
 const LoginStudent= ()=>{
     return(
        <div>
-        <h1>Login student</h1>
+        <p className="loginstudent">Login page for  student</p>
         <input type="text" />
        </div>
 
